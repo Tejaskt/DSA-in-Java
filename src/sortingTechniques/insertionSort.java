@@ -4,7 +4,7 @@ public class insertionSort {
 
     public static void main(String[] args) {
         //define array
-        int arr[] = {10 , 5 , 4 , 1 , 3 , 8};
+        int[] arr = {10 , 5 , 4 , 1 , 3 , 8};
         //count the array length
         int n = arr.length;
 

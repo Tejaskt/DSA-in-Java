@@ -1,5 +1,4 @@
 package sortingTechniques;
-
 public class selectionSort {
     public static void main(String[] a){
         int[] arr1 = {10 , 5 , 4 , 1 , 3 , 8};

@@ -5,7 +5,7 @@ public class quickSort {
     public static void main(String[] args) {
 
         // unsorted array
-        int arr[] = {10 , 5 , 4 , 1 , 3 , 8};
+        int[] arr = {10 , 5 , 4 , 1 , 3 , 8};
 
         //lower bounty
         int lb = 0;
